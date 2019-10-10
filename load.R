@@ -14,4 +14,4 @@ purposes <- purposes_raw %>%
   select(university:section, subsection, text) %>%
   arrange(university, year, section, subsection)
 
-purposes %>% write_csv("data/out/purpose_clauses.csv")
+purposes %>% write_csv("data/out/purpose-clauses.csv")
