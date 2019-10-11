@@ -23,8 +23,8 @@ analyse_statement_similarity <- function(statements, similarity_threshold = 0.9)
 
 tokenize_by_lemma <- function(statements) {
   statements %>%
-    select(id, content_en_plaintext) %>%
-    unnest_tokens(word, content_en_plaintext) %>%
+    select(id, text) %>%
+    tidytext::unnest_tokens(word, text) %>%
     anti_join(stop_words) %>%
     mutate(word = wordStem(word))
 }
