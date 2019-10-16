@@ -1,5 +1,7 @@
 library(tidyverse)
 
+public_statutes <- read_csv("data/2_public_statutes_e.csv")
+
 purposes_raw <- read_csv("data/purposes.csv")
 
 purposes <- purposes_raw %>%
