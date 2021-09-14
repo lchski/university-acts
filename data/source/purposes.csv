@@ -1,4 +1,5 @@
-university,year,section,text
-Lakehead,1965,3,"The objects and purposes of the University are, (a) the advancement of learning and the dissemination of knowledge; and (b) the intellectual, social, moral and physical development of its members and the betterment of society."
-Nipissing,1992,3,"The objects of the University are the pursuit of learning through scholarship, teaching and research within a spirit of free enquiry and expression."
-Nipissing,1992,4,"The University’s special mission is to be a teaching-oriented institution that offers programs in education and in liberal arts and science and programs that specifically address the needs of Northern Ontario."
+university,year,section,section_title,text
+Lakehead,1965,3,"Objects and purposes of University","The objects and purposes of the University are, (a) the advancement of learning and the dissemination of knowledge; and (b) the intellectual, social, moral and physical development of its members and the betterment of society."
+Nipissing,1992,3,"Objects","The objects of the University are the pursuit of learning through scholarship, teaching and research within a spirit of free enquiry and expression."
+Nipissing,1992,4,"Special mission","The University’s special mission is to be a teaching-oriented institution that offers programs in education and in liberal arts and science and programs that specifically address the needs of Northern Ontario."
+York,1959,3,"Objects and purposes of University","The objects and purposes of the University are, (a) the advancement of learning and the dissemination of knowledge; and (b) the intellectual, social, moral and physical development of its members and the betterment of society."
