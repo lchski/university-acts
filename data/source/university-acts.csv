@@ -1,3 +1,5 @@
-university,year,act,bill,chapter,page,url
-Lakehead,1965,"An Act respecting Lakehead University",150,54,221,https://archive.org/details/statutesofprovin1965onta/page/221/mode/1up
-Nipissing,1992,"An Act respecting Nipissing University",pr70,pr52,787,https://archive.org/details/statutesofprov1992v2onta/page/787/mode/1up
+university,year,act,short_title,bill,chapter,page,url,comments
+Lakehead,1965,"An Act respecting Lakehead University","The Lakehead University Act, 1965",150,54,221,https://archive.org/details/statutesofprovin1965onta/page/221/mode/1up,
+Nipissing,1992,"An Act respecting Nipissing University","Nipissing University Act, 1992",pr70,pr52,787,https://archive.org/details/statutesofprov1992v2onta/page/787/mode/1up,
+Nipissing,2001,"An Act respecting Nipissing University","Nipissing University Act, 2001",pr25,pr20,1098,https://archive.org/details/statutesofprov2001v2onta/page/1098/mode/1up,"Purpose unchanged."
+Nipissing,2009,"Good Government Act","Good Government Act, 2009",212,33,908,https://archive.org/details/statutesofprov2009v2onta/page/908/mode/1up,"Schedule 2, s. 48, p. 908. Omnibus. Purpose unchanged."
